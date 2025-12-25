@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "リヴ・ホワイル・ウィアー・ヤング",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-25T17:49:45.023623Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Live While We're Young",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Live_While_We're_Young_One_Direction.txt"
+    }
+  ]
+}
